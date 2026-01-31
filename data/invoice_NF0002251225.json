@@ -1,0 +1,43 @@
+{
+  "invoice_number": "NF0002251225",
+  "invoice_date": "2025-12-25",
+  "due_date": "2026-01-09",
+  "client_name": "BNB Interprieses ",
+  "client_email": "a.h.khan555y@gmail.com",
+  "client_phone": "08050106590",
+  "client_address": "Near Ganesh Temple p&t Quarters",
+  "services": [
+    {
+      "service_type": "Website Migration",
+      "description": "Professional website migration with responsive design, modern UI, and optimized performance",
+      "quantity": 1,
+      "rate": 18000,
+      "amount": 18000
+    },
+    {
+      "service_type": "Custom Features/Add-ons",
+      "description": "Professional custom features/add-ons with responsive design, modern UI, and optimized performance",
+      "quantity": 1,
+      "rate": 22000,
+      "amount": 22000
+    }
+  ],
+  "payment_phases": [
+    {
+      "phase_name": "1st Phase (20%)",
+      "amount": 10000,
+      "due_date": "2025-12-12",
+      "status": "Paid"
+    },
+    {
+      "phase_name": "2 nd Phase (30%)",
+      "amount": 20000,
+      "due_date": "2025-12-27",
+      "status": "Pending"
+    }
+  ],
+  "discount": 11200,
+  "payment_terms": "Nothing i wanna see how does it look ",
+  "notes": "Notes of what simple Bull shit and no work for us ",
+  "bank_details": "Account number is : 6969696969"
+}

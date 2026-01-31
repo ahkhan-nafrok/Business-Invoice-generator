@@ -1,0 +1,50 @@
+{
+  "invoice_number": "NF0008010126",
+  "invoice_date": "2026-01-01",
+  "due_date": "2026-01-16",
+  "client_name": "MSP Stone",
+  "client_email": "",
+  "client_phone": "+919148895283",
+  "client_address": "Bypass Road. Makrana (Rajasthan)-341505",
+  "services": [
+    {
+      "service_type": "Website Design & Development",
+      "description": "Complete website design and development with responsive layout",
+      "quantity": 1,
+      "rate": 10000,
+      "amount": 10000
+    },
+    {
+      "service_type": "SSL Certificate Setup",
+      "description": "SSL certificate installation and HTTPS configuration",
+      "quantity": 1,
+      "rate": 599,
+      "amount": 599
+    },
+    {
+      "service_type": "Domain & Hosting Setup",
+      "description": "Domain registration and hosting configuration",
+      "quantity": 1,
+      "rate": 3899,
+      "amount": 3899
+    }
+  ],
+  "payment_phases": [
+    {
+      "phase_name": "1st Phase",
+      "amount": 4500,
+      "due_date": "2026-12-31",
+      "status": "Pending"
+    },
+    {
+      "phase_name": "Last Phase",
+      "amount": 9500,
+      "due_date": "2026-01-04",
+      "status": "Pending"
+    }
+  ],
+  "discount": 498,
+  "payment_terms": "1. 50% advance payment required to start the project\n \n2. Remaining 50% due upon project completion ",
+  "notes": "3. 2-3 revisions included in the package price \n\n4. Additional revisions charged at Rs 500 per round\n\n5. Timeline begins after content and assets are received \n\n6. Domain and hosting renewals are client's responsibility \n\n7. Prices are subject to change without prior notice",
+  "bank_details": ""
+}

@@ -1,0 +1,23 @@
+{
+  "invoice_number": "NF0003251225",
+  "invoice_date": "2025-12-27",
+  "due_date": "2026-01-05",
+  "client_name": "BNB Interprieses ",
+  "client_email": "",
+  "client_phone": "+91973414687",
+  "client_address": "#357 BannerGhatta CH IN",
+  "services": [
+    {
+      "service_type": "Website Design & Development",
+      "description": "Complete website design and development with responsive layout",
+      "quantity": 1,
+      "rate": 16500,
+      "amount": 16500
+    }
+  ],
+  "payment_phases": [],
+  "discount": 0,
+  "payment_terms": "",
+  "notes": "",
+  "bank_details": ""
+}

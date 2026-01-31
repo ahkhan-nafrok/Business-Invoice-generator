@@ -1,0 +1,30 @@
+{
+  "invoice_number": "NF0001251225",
+  "invoice_date": "2025-12-25",
+  "due_date": "2026-01-09",
+  "client_name": "BNB Interprieses ",
+  "client_email": "a.h.khan555y@gmail.com",
+  "client_phone": "08050106590",
+  "client_address": "#3 Em - 303 3rd b main Road Bhagyalakshmi Nilaya OMBR layout Banaswadi",
+  "services": [
+    {
+      "service_type": "Website Design & Development",
+      "description": "Professional website design & development with responsive design, modern UI, and optimized performance",
+      "quantity": 1,
+      "rate": 17500,
+      "amount": 17500
+    },
+    {
+      "service_type": "SSL Certificate Setup",
+      "description": "Professional ssl certificate setup with responsive design, modern UI, and optimized performance",
+      "quantity": 1,
+      "rate": 2500,
+      "amount": 2500
+    }
+  ],
+  "payment_phases": [],
+  "discount": 5600,
+  "payment_terms": "",
+  "notes": "",
+  "bank_details": ""
+}

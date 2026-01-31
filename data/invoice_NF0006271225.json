@@ -1,0 +1,64 @@
+{
+  "invoice_number": "NF0006271225",
+  "invoice_date": "2025-12-27",
+  "due_date": "2026-01-11",
+  "client_name": "Gopal pet shop",
+  "client_email": "",
+  "client_phone": "+9183173 34227",
+  "client_address": "M-27, Jeevan Bima Nagar Main Rd, next to TITAN EYE, LIC Colony, HAL 3rd Stage, Sector 11, New Tippasandra, Bengaluru, Karnataka 560075",
+  "services": [
+    {
+      "service_type": "E-commerce Website",
+      "description": "Online store with product catalog, payment integration, Automatic Order & Inquiry, Business Owner Analytics & Customization ",
+      "quantity": 1,
+      "rate": 19107,
+      "amount": 19107
+    },
+    {
+      "service_type": "SSL Certificate Setup",
+      "description": "SSL certificate installation and HTTPS configuration",
+      "quantity": 1,
+      "rate": 899,
+      "amount": 899
+    },
+    {
+      "service_type": "SEO Optimization",
+      "description": "Search engine optimization and performance enhancement\n(Free)",
+      "quantity": 1,
+      "rate": 1,
+      "amount": 1
+    },
+    {
+      "service_type": "Domain & Hosting Setup",
+      "description": "hosting configuration and Setup",
+      "quantity": 1,
+      "rate": 3594,
+      "amount": 3594
+    },
+    {
+      "service_type": "Payment Gateway Integration",
+      "description": "Payment gateway setup and integration\n(Free)",
+      "quantity": 1,
+      "rate": 1,
+      "amount": 1
+    }
+  ],
+  "payment_phases": [
+    {
+      "phase_name": "50%",
+      "amount": 11000,
+      "due_date": "2025-12-27",
+      "status": "Paid"
+    },
+    {
+      "phase_name": "50%",
+      "amount": 11600,
+      "due_date": "2026-01-11",
+      "status": "Pending"
+    }
+  ],
+  "discount": 0,
+  "payment_terms": "",
+  "notes": "1. 50% advance payment required to start the project\n2. Remaining 50% due upon project completion\n3. 2-3 revisions included in the package price\n4. Additional revisions charged at \u25a0500 per round\n5. Timeline begins after content and assets are received\n6. Domain and hosting renewals are client's responsibility\n7. Prices are subject to change without prior notice",
+  "bank_details": ""
+}

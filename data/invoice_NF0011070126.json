@@ -1,0 +1,63 @@
+{
+  "invoice_number": "NF0011070126",
+  "invoice_date": "2026-01-07",
+  "due_date": "2026-01-22",
+  "client_name": "BNB Interprieses ",
+  "client_email": "admin@bnbglobal.com",
+  "client_phone": "+91 9940191813",
+  "client_address": "",
+  "services": [
+    {
+      "service_type": "Website Design & Development",
+      "description": "Complete website design and development with responsive layout",
+      "quantity": 1,
+      "rate": 31286,
+      "amount": 31286
+    },
+    {
+      "service_type": "Hosting Only",
+      "description": "Web hosting service for website deployment",
+      "quantity": 1,
+      "rate": 7500,
+      "amount": 7500
+    },
+    {
+      "service_type": "SSL Certificate Setup",
+      "description": "SSL certificate installation and HTTPS configuration",
+      "quantity": 1,
+      "rate": 699,
+      "amount": 699
+    },
+    {
+      "service_type": "Add-on Server Cost : With consent of BNB Enterprise",
+      "description": "Add-on Server Cost : With consent of BNB Enterprise",
+      "quantity": 1,
+      "rate": 2000,
+      "amount": 2000
+    }
+  ],
+  "payment_phases": [
+    {
+      "phase_name": "20% ",
+      "amount": 4000,
+      "due_date": "2025-12-09",
+      "status": "Paid"
+    },
+    {
+      "phase_name": "50%",
+      "amount": 10000,
+      "due_date": "2026-01-07",
+      "status": "Pending"
+    },
+    {
+      "phase_name": "30%",
+      "amount": 6000,
+      "due_date": "2025-01-15",
+      "status": "Pending"
+    }
+  ],
+  "discount": 20783.985,
+  "payment_terms": "",
+  "notes": "",
+  "bank_details": ""
+}

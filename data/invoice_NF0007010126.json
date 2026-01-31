@@ -1,0 +1,30 @@
+{
+  "invoice_number": "NF0007010126",
+  "invoice_date": "2026-01-01",
+  "due_date": "2026-01-16",
+  "client_name": "MSP Stone",
+  "client_email": "",
+  "client_phone": "+919148895283",
+  "client_address": "Bypass Road. Makrana (Rajasthan)-341505",
+  "services": [
+    {
+      "service_type": "Website Design & Development",
+      "description": "Complete website design and development with responsive layout",
+      "quantity": 1,
+      "rate": 10000,
+      "amount": 10000
+    },
+    {
+      "service_type": "SSL Certificate Setup",
+      "description": "SSL certificate installation and HTTPS configuration",
+      "quantity": 1,
+      "rate": 599,
+      "amount": 599
+    }
+  ],
+  "payment_phases": [],
+  "discount": 0,
+  "payment_terms": "",
+  "notes": "",
+  "bank_details": ""
+}

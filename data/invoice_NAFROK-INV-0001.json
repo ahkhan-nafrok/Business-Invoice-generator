@@ -1,0 +1,63 @@
+{
+  "invoice_number": "NAFROK-INV-0001",
+  "invoice_date": "2025-12-25",
+  "due_date": "2026-01-12",
+  "client_name": "BNB ENTERPRISES",
+  "client_email": "bnb@gmail.com",
+  "client_phone": "+913636479120",
+  "client_address": "BannerGatta Bangalore, KA, IN",
+  "services": [
+    {
+      "service_type": "Website Design & Development",
+      "description": "Professional website design & development with responsive design, modern UI, and optimized performance",
+      "quantity": 1,
+      "rate": 16600,
+      "amount": 16600
+    },
+    {
+      "service_type": "Domain & Hosting Setup",
+      "description": "Professional domain & hosting setup with responsive design, modern UI, and optimized performance",
+      "quantity": 1,
+      "rate": 8500,
+      "amount": 8500
+    },
+    {
+      "service_type": "SEO Optimization",
+      "description": "Professional seo optimization with responsive design, modern UI, and optimized performance",
+      "quantity": 1,
+      "rate": 3500,
+      "amount": 3500
+    },
+    {
+      "service_type": "SSL Certificate Setup",
+      "description": "Professional ssl certificate setup with responsive design, modern UI, and optimized performance",
+      "quantity": 1,
+      "rate": 2582,
+      "amount": 2582
+    }
+  ],
+  "payment_phases": [
+    {
+      "phase_name": "22%",
+      "amount": 4000,
+      "due_date": "2025-12-09",
+      "status": "Paid"
+    },
+    {
+      "phase_name": "40%",
+      "amount": 7440,
+      "due_date": "2025-12-27",
+      "status": "Pending"
+    },
+    {
+      "phase_name": "38%",
+      "amount": 7160,
+      "due_date": "2025-01-05",
+      "status": "Pending"
+    }
+  ],
+  "discount": 12682,
+  "payment_terms": "",
+  "notes": "",
+  "bank_details": "Bank DT"
+}
